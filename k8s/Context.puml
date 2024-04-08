@@ -1,5 +1,5 @@
 ' uncomment the following line and comment the first to use locally
-!include <k8s/C4>
+!include C4.puml
 ' Colors
 ' ##################################
 
